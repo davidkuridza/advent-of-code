@@ -7,3 +7,4 @@ This repository contains the source code and a description of the approach taken
 ## 2022
 
 - [Day 1: Calorie Counting](./2022/01/README.md)
+- [Day 2: Rock Paper Scissors](./2022/02/README.md)
