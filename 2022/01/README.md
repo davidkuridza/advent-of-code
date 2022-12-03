@@ -49,33 +49,6 @@ We know the following:
 
 This means we can read the list line by line and search for a blank line to determine the inventory per Elf.
 
-### Open the file and read the lines
-
-We will start by opening the file containing the data and assume the file is called `input.txt`.
-
-```go
-f, err := os.Open("input.txt")
-if err != nil {
-    log.Fatal(err)
-}
-defer f.Close()
-```
-
-The following happens above:
-
-1. The file is opened for reading.
-2. If there is an error opening it (e.g. the file does not exist), an error is logged, and the program terminates.
-3. The file is closed once it is no longer needed.
-
-To read the lines, we will use `bufio.NewScanner()` like this:
-
-```go
-scanner := bufio.NewScanner(f)
-for scanner.Scan() {
-    line := scanner.Text()
-}
-```
-
 ### Sum of all Calories
 
 Let's start by calculating the number of all Calories on the list:

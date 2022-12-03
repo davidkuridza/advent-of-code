@@ -53,33 +53,6 @@ There are two scores, one for the shape played, and the other for the outcome:
 | Draw (tie) | 3     |
 | Lose       | 0     |
 
-### Open the file and read the lines
-
-We will start by opening the file containing the data and assume the file is called `input.txt`.
-
-```go
-f, err := os.Open("input.txt")
-if err != nil {
-    log.Fatal(err)
-}
-defer f.Close()
-```
-
-The following happens above:
-
-1. The file is opened for reading.
-2. If there is an error opening it (e.g. the file does not exist), an error is logged, and the program terminates.
-3. The file is closed once it is no longer needed.
-
-To read the lines, we will use `bufio.NewScanner()` like this:
-
-```go
-scanner := bufio.NewScanner(f)
-for scanner.Scan() {
-    line := scanner.Text()
-}
-```
-
 ### Player and opponent moves
 
 We can then split each line using the space as a separator to get the opponent and the player.
