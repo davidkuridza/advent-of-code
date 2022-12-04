@@ -18,6 +18,7 @@ func main() {
 
 	calories := []int{}
 	elfCalories := 0
+
 	scanner := bufio.NewScanner(f)
 	for scanner.Scan() {
 		line := scanner.Text()
