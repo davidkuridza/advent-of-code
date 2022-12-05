@@ -10,3 +10,4 @@ This repository contains the source code and a description of the approach taken
 - [Day 2: Rock Paper Scissors](./2022/02)
 - [Day 3: Rucksack Reorganization](./2022/03)
 - [Day 4: Camp Cleanup](./2022/04)
+- [Day 5: Supply Stacks](./2022/05)
