@@ -11,3 +11,4 @@ This repository contains the source code and a description of the approach taken
 - [Day 3: Rucksack Reorganization](./2022/03)
 - [Day 4: Camp Cleanup](./2022/04)
 - [Day 5: Supply Stacks](./2022/05)
+- [Day 6: Tuning Trouble](./2022/06)
