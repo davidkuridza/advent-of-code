@@ -11,3 +11,4 @@ My take on the Advent of Code programming puzzles.
 - [Day 5: Supply Stacks](./2022/05/main.go)
 - [Day 6: Tuning Trouble](./2022/06/main.go)
 - [Day 7: No Space Left On Device](./2022/07/main.go)
+- [Day 8: Treetop Tree House](./2022/08/main.go)
