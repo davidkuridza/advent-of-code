@@ -14,3 +14,4 @@ My take on the Advent of Code programming puzzles.
 - [Day 8: Treetop Tree House](./2022/08/main.go)
 - [Day 9: Rope Bridge](./2022/09/main.go)
 - [Day 10: Cathode-Ray Tube](./2022/10/main.go)
+- [Day 11: Monkey in the Middle](./2022/11/main.go)
