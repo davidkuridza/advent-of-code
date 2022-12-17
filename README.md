@@ -15,3 +15,4 @@ My take on the Advent of Code programming puzzles.
 - [Day 9: Rope Bridge](./2022/09/main.go)
 - [Day 10: Cathode-Ray Tube](./2022/10/main.go)
 - [Day 11: Monkey in the Middle](./2022/11/main.go)
+- [Day 12: Hill Climbing Algorithm](./2022/12/main.go)
