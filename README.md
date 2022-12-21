@@ -17,3 +17,4 @@ My take on the Advent of Code programming puzzles.
 - [Day 11: Monkey in the Middle](./2022/11/main.go)
 - [Day 12: Hill Climbing Algorithm](./2022/12/main.go)
 - [Day 13: Distress Signal](./2022/13/main.go)
+- [Day 14: Regolith Reservoir](./2022/14/main.go)
