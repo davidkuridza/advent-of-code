@@ -18,3 +18,10 @@ My take on the Advent of Code programming puzzles.
 - [Day 12: Hill Climbing Algorithm](./2022/12/main.go)
 - [Day 13: Distress Signal](./2022/13/main.go)
 - [Day 14: Regolith Reservoir](./2022/14/main.go)
+- Day 15: Beacon Exclusion Zone
+- Day 16: Proboscidea Volcanium
+- Day 17: Pyroclastic Flow
+- Day 18: Boiling Boulders
+- Day 19: Not Enough Minerals
+- Day 20: Grove Positioning System
+- [Day 21: Monkey Math](./2022/21/main.go)
